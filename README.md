@@ -1,5 +1,7 @@
 # Image Preview - Visual Studio Code Extension
 
+> fix: path aliases defined by js/tsconfig don't work on windows, Temporary release and use, wait for the [PR](https://github.com/kisstkondoros/gutter-preview/pull/138) merger to enable this.
+
 Shows image preview in the gutter and on hover
 
 ## It looks like this

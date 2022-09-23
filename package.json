@@ -1,12 +1,12 @@
 {
-  "name": "vscode-gutter-preview",
+  "name": "vscode-gutter-preview-fork",
   "private": true,
   "description": "Shows image preview in the gutter and on hover",
   "author": "Tamas Kiss",
-  "publisher": "kisstkondoros",
+  "publisher": "dusion",
   "license": "MIT",
-  "version": "0.30.0",
-  "displayName": "Image preview",
+  "version": "0.30.1",
+  "displayName": "Image preview fork",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.64.0"
